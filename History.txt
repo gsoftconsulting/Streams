@@ -1,1 +1,2 @@
 1. The history file created on the main branch
+2. Some other guy works directly from master branch ("not recommended")
