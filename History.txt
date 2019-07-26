@@ -1,1 +1,2 @@
-1. The history file created on the main branch
+1. The history file created on the master branch
+2. The second line was added in the new branch called "First-Branch"
